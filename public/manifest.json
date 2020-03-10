@@ -1,0 +1,8 @@
+{
+  "name": "react-hooks-multi-reducers",
+  "short_name": "react-hooks-multi-reducers",
+  "display": "standalone",
+  "start_url": "localhost:8080",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
